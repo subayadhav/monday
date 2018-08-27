@@ -3,7 +3,7 @@ class digits
 public static void main(String args[])
 {
   count=0;
-  num=6789;
+  num=5112;
   while(num!=0)
 {
   num=num/10;
