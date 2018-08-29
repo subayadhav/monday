@@ -3,7 +3,7 @@ class palindrome
 {
 public static void main(String args[])
 {
-int reversenumber=0,originalnumber,reaminder;
+int reversenumber=0,originalnumber,remainder;
 System.out.println("enter the number");
 Scanner sc=new Scanner(System.in);
 int num=sc.nextInt();
