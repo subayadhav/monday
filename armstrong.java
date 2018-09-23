@@ -15,8 +15,8 @@ class Main{
     result=result+(remainder*remainder*remainder);  
     }  
     if(originalnumber==result)  
-    System.out.println("armstrong number");   
+    System.out.println("yes");   
     else  
-        System.out.println("Not armstrong number");   
+        System.out.println("no");   
    }  
 }  
